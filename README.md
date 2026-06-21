@@ -1,5 +1,28 @@
 # 💫 About Me:
-Small Introduction<br>Hey! I'm Sohan 👋<br><br>I'm a Data Science & Engineering student at Manipal Institute of Technology who loves turning ideas into products.<br><br>Currently on a 30-Day Builder Journey where I ship one project after another to learn AI, data systems, full-stack development, product thinking, and startup execution through real-world building.<br><br>My goal isn't just to train models—it's to create products people genuinely enjoy using.<br><br>About Me<br>🔭 I'm currently working on<br>Building data-driven and AI-powered products through my 30-Day Builder Journey.<br><br>Current projects include:<br>• World Cup Intelligence Lab<br>• AniMatch (Anime Recommendation Engine)<br>• SoFocus (YouTube Learning Companion)<br>🌱 I'm currently learning<br>• Product Engineering<br>• Recommendation Systems<br>• Full-Stack Development<br>• AI Agent Workflows<br>• System Design<br>• Building products that people actually want<br>👯 I'm looking to collaborate on<br>Open-source AI tools, recommendation systems, developer tools, educational technology, and interesting startup ideas.<br>💬 Ask me about<br>• Data Science & Machine Learning<br>• Product Building<br>• AI Agents<br>• Recommendation Systems<br>• Student Leadership<br>• Shipping MVPs quickly<br>🤝 I'm looking for help with<br>Design, product feedback, growth, and turning side projects into products people love.<br>⚡ Fun fact<br>I've challenged myself to build and ship 30 projects in 30 days—not to become a frontend developer, but to become a builder who can turn ideas into reality.
+👋 Hey, I'm Sohan.
+
+A lot of people learn technology by taking courses.
+
+I'm trying to learn by shipping.
+
+I'm currently challenging myself to build and launch 30 projects in 30 days—not to become a frontend developer, but to become a better builder.
+
+Along the way I'm exploring:
+
+• AI Products
+• Recommendation Systems
+• Data & Analytics
+• Full-Stack Development
+• Product Thinking
+• Startup Execution
+
+Some projects succeed.
+Some fail.
+Every project teaches me something.
+
+This GitHub is where I document that journey.
+
+Welcome aboard 🚀
 
 
 ## 🌐 Socials:
